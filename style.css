@@ -91,7 +91,7 @@ main div a {
     background-color: #1E1E1E;
     padding: 5px 10px;
     border-radius: 20px;
-    margin: 15px;
+    margin: 50px;
     margin: 0 auto;
     line-height: 10px;
     color: white;
@@ -117,6 +117,8 @@ form {
     margin: 0 auto;
     padding: 20px;
     text-align: left;
+    margin: 30px;
+    justify-content: center;
 }
 
 input {
@@ -124,4 +126,13 @@ input {
     border-radius: 20px;
     padding: 10px;
     margin: 15px;
+}
+
+
+footer div {
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
 }

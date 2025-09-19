@@ -119,29 +119,9 @@ form {
     text-align: left;
 }
 
-input[type=text], input[type=password] {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 10px 5px;
-    display: inline-block;
-    border: 1px solid #ccc;
-    box-sizing: border-box;
-    border-radius: 5px;
-
-}
-
-button {
-    background-color: #21FF30;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    cursor: pointer;
-    width: 100%;
-}
-
 input {
     background-color: #1E1E1E;
     border-radius: 20px;
-    
+    padding: 10px;
+    margin: 15px;
 }

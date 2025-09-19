@@ -1,0 +1,147 @@
+header {
+    background-color: #21FF30;
+    padding: 20px;
+}
+
+footer {
+    justify-content: center;
+    float: right;
+}
+
+footer a {
+    background-color: #21FF30;
+    border-radius: 20px;
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+main {
+    margin: 0 auto right;
+    padding: 20px;
+    text-align: left;
+}
+
+a {
+    background-color: #1E1E1E;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 10px;
+    margin: 10px;/*space around each a*/
+    width: 355px;
+    height: 80px;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 27px;
+}
+
+article {
+    margin: 0;
+    text-align: left;
+}
+
+h3 {
+    margin: 0;
+    text-align: left;
+}
+
+
+header h1 {
+    margin: 10px;
+    font-size: 27px;
+    width: fit-content;
+    padding: 4px;
+}
+
+section a {
+    background-color: #1E1E1E;
+    padding: 4px;
+    font-style: regular;
+    width: fit-content;
+    font-size: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+section {
+    margin-left: 650px;
+    justify-content: center;
+    margin: 10px 0px 0px 0px;
+    background-color: none;
+    float: right;
+    background-color: #21FF30;
+}
+
+section {
+    background-color: #21FF30;
+}
+
+h1 {
+    background-color: #21FF30;
+}
+
+.head {
+    background-color: #21FF30;
+    height: 70px;
+}
+
+main div a {
+    background-color: #1E1E1E;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin: 15px;
+    margin: 0 auto;
+    line-height: 10px;
+    color: white;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    margin: 10px;
+    color: #21FF30;
+}
+
+h2 {
+    color: #21FF30;
+}
+
+p {
+    padding: 2px;
+    margin: 0;
+}
+
+form {
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+
+button {
+    background-color: #21FF30;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input {
+    background-color: #1E1E1E;
+    border-radius: 20px;
+    
+}

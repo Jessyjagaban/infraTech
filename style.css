@@ -1,6 +1,7 @@
 header {
     background-color: #21FF30;
     padding: 20px;
+    width: 100%vm;
 }
 
 footer {
@@ -35,6 +36,7 @@ a {
 
 h1 {
     font-size: 27px;
+     width: 100%vm;
 }
 
 article {
@@ -100,7 +102,7 @@ main div a {
 }
 
 main div {
-    margin: 70px;
+    margin: 100px;
     margin: 0 auto;
 }
 
@@ -125,7 +127,7 @@ form {
     text-align: left;
     margin: 30px;
     justify-content: center;
-    background-color; white;
+    background-color:black;
 }
 
 input {

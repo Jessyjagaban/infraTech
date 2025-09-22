@@ -92,18 +92,18 @@ h1 {
 main div a {
     background-color: #1E1E1E;
     padding: 10px 20px;
-    border-radius: 20px;
-    margin: 50px; /*space around a*/
-    margin: 0 auto;
-    line-height: 10px;
     color: white;
     font-size: 30px;
     margin-bottom: 1px solid black;
+    diplay: block;
 }
 
 main div {
-    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    max-width: 100px;
     margin: 0 auto;
+    gap: 20px;
 }
 
 h3 {
@@ -158,4 +158,10 @@ footer div {
 body section form input {
     border-radius: 20px;
     background-color: #21FF30;
+}
+
+.title {
+    background-color: none;
+    color: #21FF30;
+    margin: 20px;
 }

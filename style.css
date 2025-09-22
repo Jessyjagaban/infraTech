@@ -57,6 +57,19 @@ header h1 {
     padding: 4px;
 }
 
+header nav a {
+    font-size: 10px;
+    max-width: fit-content;
+}
+
+header nav {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
 section a {
     background-color: #1E1E1E;
     padding: 4px;
@@ -101,9 +114,10 @@ main div a {
 main div {
     display: flex;
     flex-direction: column;
-    max-width: 100px;
+    max-width: 50px;
     margin: 0 auto;
     gap: 20px;
+    justify-content: center;
 }
 
 h3 {
